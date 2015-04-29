@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: ba065f41a4e3f6046a618fe135a0d5eb
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gameArts-hd2_0
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 657
+        width: 217
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: gameArts-hd2_1
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 657
+        width: 223
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: gameArts-hd2_2
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 653
+        width: 215
+        height: 328
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: gameArts-hd2_3
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 649
+        width: 223
+        height: 332
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: gameArts-hd2_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 651
+        width: 224
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: gameArts-hd2_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 653
+        width: 219
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: gameArts-hd2_6
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 732
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: gameArts-hd2_7
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 735
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: gameArts-hd2_8
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 733
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
