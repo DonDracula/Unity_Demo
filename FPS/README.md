@@ -4,4 +4,4 @@ Goal：Implement the basic functions that a FPS game may have.
 ScreenShot:
 
 
-![image](https://github.com/DonDracula/Unity_Demo/FPS/fps-screenshot.png)  
+![](https://github.com/DonDracula/Unity_Demo/blob/master/FPS/fps-screenshot.png)  
