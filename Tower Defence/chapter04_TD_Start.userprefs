@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Work Space\AutoShow\Assets\Scripts\carema\SmoothLookAt.cs">
+    <Files>
+      <File FileName="..\..\Work Space\AutoShow\Assets\Scripts\GameManager.cs" Line="48" Column="3" />
+      <File FileName="..\..\Work Space\AutoShow\Assets\Scripts\CarRotate.cs" Line="77" Column="1" />
+      <File FileName="..\..\Work Space\AutoShow\Assets\Scripts\carema\SmoothLookAt.cs" Line="40" Column="1" />
+      <File FileName="..\..\Work Space\AutoShow\Assets\Scripts\ClickTurnTo_CarType.cs" Line="38" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
