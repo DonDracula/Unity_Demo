@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 4147cc1fcb23e2d4da9a7f6d09bf20d6
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: GolfClass
+    100002: GolfClass-Light-B
+    100004: GolfClass-Light-F
+    100006: GolfClass-main
+    100008: GolfClass-main-dors
+    100010: GolfClass.2
+    100012: //RootNode
+    100014: Null Rad-Inside
+    100016: Null Rad_
+    100018: Null-GolfClass
+    100020: Rad_HL
+    100022: Rad_HL-Inside
+    100024: Rad_HR
+    100026: Rad_HR-Inside
+    100028: Rad_VL
+    100030: Rad_VL-Inside
+    100032: Rad_VR
+    100034: Rad_VR-Inside
+    400000: GolfClass
+    400002: GolfClass-Light-B
+    400004: GolfClass-Light-F
+    400006: GolfClass-main
+    400008: GolfClass-main-dors
+    400010: GolfClass.2
+    400012: //RootNode
+    400014: Null Rad-Inside
+    400016: Null Rad_
+    400018: Null-GolfClass
+    400020: Rad_HL
+    400022: Rad_HL-Inside
+    400024: Rad_HR
+    400026: Rad_HR-Inside
+    400028: Rad_VL
+    400030: Rad_VL-Inside
+    400032: Rad_VR
+    400034: Rad_VR-Inside
+    2300000: GolfClass
+    2300002: GolfClass-Light-B
+    2300004: GolfClass-Light-F
+    2300006: GolfClass-main
+    2300008: GolfClass-main-dors
+    2300010: GolfClass.2
+    2300012: Rad_HL
+    2300014: Rad_HL-Inside
+    2300016: Rad_HR
+    2300018: Rad_HR-Inside
+    2300020: Rad_VL
+    2300022: Rad_VL-Inside
+    2300024: Rad_VR
+    2300026: Rad_VR-Inside
+    3300000: GolfClass
+    3300002: GolfClass-Light-B
+    3300004: GolfClass-Light-F
+    3300006: GolfClass-main
+    3300008: GolfClass-main-dors
+    3300010: GolfClass.2
+    3300012: Rad_HL
+    3300014: Rad_HL-Inside
+    3300016: Rad_HR
+    3300018: Rad_HR-Inside
+    3300020: Rad_VL
+    3300022: Rad_VL-Inside
+    3300024: Rad_VR
+    3300026: Rad_VR-Inside
+    4300000: GolfClass
+    4300002: GolfClass-Light-B
+    4300004: GolfClass-Light-F
+    4300006: GolfClass-main
+    4300008: GolfClass-main-dors
+    4300010: Rad_HR-Inside
+    4300012: Rad_VR-Inside
+    4300014: Rad_HL-Inside
+    4300016: Rad_VL-Inside
+    4300018: GolfClass.2
+    4300020: Rad_VL
+    4300022: Rad_HL
+    4300024: Rad_VR
+    4300026: Rad_HR
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0120000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

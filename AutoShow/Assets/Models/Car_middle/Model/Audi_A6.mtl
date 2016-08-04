@@ -1,0 +1,415 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl Interior1
+Ka  1.0 0.9 0.8
+Kd  0.8 0.7 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl chrome1
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl metal2
+Ka  0.0 0.0 0.0
+Kd  0.7 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl lightRubber1
+Ka  0.6 0.6 0.6
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl brushed_metal_02
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl darkRubber1
+Ka  0.0 0.0 0.0
+Kd  0.2 0.2 0.2
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl simple_metal_0_70
+Ka  0.0 0.0 0.0
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl carpaint
+Ka  0.0 0.0 0.0
+Kd  0.2 0.5 0.1
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Glass_Car
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  0.2
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__141 (2) to come 
+#
+newmtl chrome2
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Headlight
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__141 done 
+#
+# Multi/Sub Material__152 (2) to come 
+#
+newmtl chrome1
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Headlight
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__152 done 
+#
+newmtl metal
+Ka  0.0 0.0 0.0
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Mirror2
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl black_black1
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__56 (2) to come 
+#
+newmtl Glass_Car_Red
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  0.2
+Ns  10.0
+illum 2
+#
+newmtl Glass_Car
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  0.2
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__56 done 
+#
+newmtl Windows1
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  0.1
+Ns  10.0
+illum 2
+#
+newmtl default__2
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__45 (2) to come 
+#
+newmtl Glass_Car_Red
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  0.2
+Ns  10.0
+illum 2
+#
+newmtl Glass_Car
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  0.2
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__45 done 
+#
+# Multi/Sub Material__118 (4) to come 
+#
+newmtl chrome2
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl chrome3
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl darkRubber1
+Ka  0.0 0.0 0.0
+Kd  0.2 0.2 0.2
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Headlight
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__118 done 
+#
+# Multi/Sub Headlight_aux_lamp_mir02Mtl (2) to come 
+#
+newmtl chrome4
+Ka  0.0 0.0 0.0
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl chrome1
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Headlight_aux_lamp_mir02Mtl done 
+#
+newmtl chrome3
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Headlight_aux_lamp02Mtl (2) to come 
+#
+newmtl chrome1
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl chrome2
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Headlight_aux_lamp02Mtl done 
+#
+newmtl chrome2
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Glass_Car_povorot
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  0.2
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__130 (4) to come 
+#
+newmtl chrome2
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl chrome3
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl darkRubber1
+Ka  0.0 0.0 0.0
+Kd  0.2 0.2 0.2
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Headlight
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__130 done 
+#
+# Multi/Sub Headlight_aux_lamp_mir03Mtl (2) to come 
+#
+newmtl chrome4
+Ka  0.0 0.0 0.0
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl chrome1
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Headlight_aux_lamp_mir03Mtl done 
+#
+# Multi/Sub Headlight_aux_lamp03Mtl (2) to come 
+#
+newmtl chrome1
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl chrome2
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Headlight_aux_lamp03Mtl done 
+#
+newmtl Rubber1
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Interior___Seats1
+Ka  0.0 0.0 0.0
+Kd  0.8 0.8 0.8
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Interior___chapelle1
+Ka  0.3 0.1 0.0
+Kd  0.2 0.1 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Wheel_tire02Mtl (2) to come 
+#
+newmtl Wheel_brand1
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Wheel_tyre1
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Wheel_tire02Mtl done 
+#
+# EOF
