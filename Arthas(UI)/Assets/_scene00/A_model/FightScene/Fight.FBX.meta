@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 9cfce318c8eb8e341960c3e2449c8670
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cylinder01
+    100002: //RootNode
+    100004: Hamate
+    100006: Hamate01
+    100008: Plane01
+    100010: SKULL
+    100012: SKULL01
+    100014: SKULL02
+    100016: SSUNH01
+    100018: toraciL05
+    100020: toraciL4
+    400000: Cylinder01
+    400002: //RootNode
+    400004: Hamate
+    400006: Hamate01
+    400008: Plane01
+    400010: SKULL
+    400012: SKULL01
+    400014: SKULL02
+    400016: SSUNH01
+    400018: toraciL05
+    400020: toraciL4
+    2300000: Cylinder01
+    2300002: Hamate
+    2300004: Hamate01
+    2300006: Plane01
+    2300008: SKULL
+    2300010: SKULL01
+    2300012: SKULL02
+    2300014: SSUNH01
+    2300016: toraciL05
+    2300018: toraciL4
+    3300000: Cylinder01
+    3300002: Hamate
+    3300004: Hamate01
+    3300006: Plane01
+    3300008: SKULL
+    3300010: SKULL01
+    3300012: SKULL02
+    3300014: SSUNH01
+    3300016: toraciL05
+    3300018: toraciL4
+    4300000: Cylinder01
+    4300002: Plane01
+    4300004: SKULL
+    4300006: SKULL01
+    4300008: SKULL02
+    4300010: toraciL4
+    4300012: toraciL05
+    4300014: Hamate
+    4300016: Hamate01
+    4300018: SSUNH01
+    6400000: Cylinder01
+    6400002: Hamate
+    6400004: Hamate01
+    6400006: Plane01
+    6400008: SKULL
+    6400010: SKULL01
+    6400012: SKULL02
+    6400014: SSUNH01
+    6400016: toraciL05
+    6400018: toraciL4
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
